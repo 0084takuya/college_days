@@ -1,0 +1,26 @@
+// Place all the styles related to the top controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+header{
+  height: 65px;
+  width: 100%;
+  background-color:rgba(10, 10, 10, 1);
+}
+
+
+/*logoクラスの幅を124pxに、margin-topを20pxに指定してください*/
+.logo{
+  width:124px;
+  margin-top:20px;
+}
+
+footer p{
+  color:#b3aeb5;
+  font-size: 12px;
+}
+
+/*footerのpadding-topを30pxに指定してください*/
+footer{
+  padding-top: 30px;
+  background-color:rgba(10, 10, 10, 1);
+}
